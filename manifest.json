@@ -15,6 +15,7 @@
 
   "permissions": [
     "activeTab",
-    "menus"
+    "menus",
+    "contextMenus"
   ]
 }
