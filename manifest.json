@@ -8,14 +8,14 @@
     "default_icon": "images/icon-128.png"
   },
   "background": {
-    "scripts": [
-        "script.js"
-    ]
+    "service_worker": "background.js"
   },
-
   "permissions": [
     "activeTab",
-    "menus",
     "contextMenus"
+  ],
+  "host_permissions": [
+    "http://*/*", 
+    "https://*/*" 
   ]
 }
