@@ -2,6 +2,10 @@
     text-decoration: line-through;
 }
 
+.unmark_all {
+    margin-bottom: 30px;
+}
+
 .popup-container {
     width: 300px;
     height: 300px;
