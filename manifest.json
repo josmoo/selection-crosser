@@ -22,7 +22,8 @@
     "js": ["content.js"],
     "css": ["content.css"],
     "matches":[
-      "https://www.allrecipes.com/recipe/*"
+      "https://www.allrecipes.com/recipe/*",
+      "https://www.allrecipes.com/*"
     ]
     }
   ],
